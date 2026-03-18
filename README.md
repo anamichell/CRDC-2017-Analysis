@@ -15,4 +15,3 @@
 **Part 2**
 1. Which states show the largest disparity in referral and arrest representation between students with and without disabilities?
 
-***📊 Why it matters***
