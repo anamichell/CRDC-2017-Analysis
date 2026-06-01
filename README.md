@@ -6,7 +6,7 @@
 'This set of Excel file contains data on student referrals to law enforcement by disability and student-related arrests by disability for all states. It also contains data on incidents of offenses by type of offense for all states.' (OCR)
 
 
-*** Overview***
+***Overview***
 This project analyzes the 2017–18 Civil Rights Data Collection (CRDC) to explore school-related referrals to law enforcement, student arrests, and disciplinary outcomes involving students with disabilities across U.S. states.
 
 Using Python and Pandas, I cleaned and combined multiple datasets, created state-level metrics, and investigated patterns in disciplinary actions to answer several research questions.
